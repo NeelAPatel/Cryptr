@@ -1,6 +1,8 @@
 # Cryptr
-Encrypt and Decrypt any file for secure file sharing across the internet. An example is given in the PDF file.
+Encrypt and Decrypt any file for secure file sharing across the internet. Tested with .txt .png .gif and .mp4. An example is given in the PDF file.
 
+
+----------
 Compile with: `$ javac Cryptr.java`
 
 1. Generating a secret key
